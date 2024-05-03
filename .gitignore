@@ -1,7 +1,7 @@
 
 # Ignore Node.js modules
 **/node_modules/
-
+**/.expo
 # Ignore .env files in AccountService folder
 AccountService/*.env
 
